@@ -21,7 +21,7 @@ The `AbsolutelySillyImageCaptioning` folder is to be placed under `samples` subf
 |:--:| 
 | *The image of a pair of double beds and a young woman and a large room. A comic book reads seated in the woman.* |
 
-| ![bath.jpg](https://github.com/McCastles/AbsolutelySillyImageCaptioning/blob/master/imgs/bath.jpg) |
+| ![bath.jpeg](https://github.com/McCastles/AbsolutelySillyImageCaptioning/blob/master/imgs/bath.jpeg) |
 |:--:| 
 | *The image of a table with a garden and a cup. A pair of red vases looks been of the garden. A pair of modern sinks leads filled of the garden. A beautiful flowers is filled in the vase. A pair of green plants roses in the vase. A fresh milk viewed of the vase. A blue water is placed in the sink.* |
 
