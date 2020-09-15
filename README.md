@@ -17,6 +17,10 @@ The `AbsolutelySillyImageCaptioning` folder is to be placed under `samples` subf
 |:--:| 
 | *The image of a restaurant with a table. Three young pizzas is fired on the table. Young people appears fun of the pizza.* |
 
+| ![room12.jpg](https://github.com/McCastles/AbsolutelySillyImageCaptioning/blob/master/imgs/room12.jpg) |
+|:--:| 
+| *The image of a wooden table and a red vase.  A green plant pulls potted on the table. A young chair is set with the table. A beautiful flowers is covered of the plant.* |
+
 | ![room1.jpg](https://github.com/McCastles/AbsolutelySillyImageCaptioning/blob/master/imgs/room1.jpg) |
 |:--:| 
 | *The image of a pair of double beds and a young woman and a large room. A comic book reads seated in the woman.* |
